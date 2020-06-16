@@ -14,7 +14,7 @@ Martijn Naaijer has provided the original dataset in his [Phd repository](https:
 as an excel file: https://github.com/MartijnNaaijer/phdthesis/blob/master/Various/subgenres_synvar.xls
 
 That spreadsheet, which is not machine readable, was manually converted into the genre_ranges.csv.
-The ranges are checked andmatched with their appropriate BHSA verse nodes in [range2tf.ipynb](range2tf.ipynb)
+The ranges are checked andmatched with their appropriate BHSA verse nodes in [ranges2tf.ipynb](ranges2tf.ipynb)
 
 ### TF version
 
