@@ -20,6 +20,18 @@ as an excel file: https://github.com/MartijnNaaijer/phdthesis/blob/master/Variou
 That spreadsheet, which is not machine readable, was manually converted into the genre_ranges.csv.
 The ranges are checked and matched with their appropriate BHSA verse nodes in [ranges2tf.ipynb](ranges2tf.ipynb)
 
+### Genre values
+
+The following values are tagged:
+
+```
+prose
+poetry
+prophetic
+instruction
+list
+```
+
 ### TF version
 
 Only version c is exported here, but since the verses do not change from version to version,
