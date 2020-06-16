@@ -5,7 +5,7 @@
 This repository contains genre data as a .csv and as a Text-Fabric file. 
 [genre_ranges.csv](genre_ranges.csv) contains ranges of verses which correspond to consecutive chunks of genre.
 Both the start and end of the ranges are inclusive, i.e. part of the range.
-The [Text-Fabric](tf/c/genre.tf) file contains verse node to genre mappings for use with
+The [Text-Fabric file](tf/c/genre.tf) contains verse node to genre mappings for use with
 the [BHSA corpus](https://github.com/ETCBC/bhsa) in [Text-Fabric](https://github.com/annotation/text-fabric).
 
 The authors of the data are Dirk Bakker, Marianne Kaajan, Martijn Naaijer, Wido van Peursen, and Janet Dyk. 
