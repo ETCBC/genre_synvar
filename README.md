@@ -1,8 +1,8 @@
 # Genre Labels from Syntactic Variation Project
 
 This repository contains genre data from the syntactic variation project. 
-The authors of the data are Dirk Bakker, Janet Dyk, Marianne Kaajan, Martijn
-Naaijer, and Wido van Peursen. 
+The authors of the data are Dirk Bakker, Marianne Kaajan, Martijn
+Naaijer, Wido van Peursen, and Janet Dyk. 
 
 Martijn Naaijer has provided the dataset in his [Phd repository](https://github.com/MartijnNaaijer/phdthesis)
 as an excel file: https://github.com/MartijnNaaijer/phdthesis/blob/master/Various/subgenres_synvar.xls
