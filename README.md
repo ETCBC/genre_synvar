@@ -5,6 +5,8 @@
 This repository contains genre data as a .csv and as a Text-Fabric file. 
 [genre_ranges.csv](genre_ranges.csv) contains ranges of verses which correspond to consecutive chunks of genre.
 Both the start and end of the ranges are inclusive, i.e. part of the range.
+[verse2genre.csv](verse2genre.csv) contains a simple verse label to genre mapping.
+
 The [Text-Fabric file](tf/c/genre.tf) contains verse node to genre mappings for use with
 the [BHSA corpus](https://github.com/ETCBC/bhsa) in [Text-Fabric](https://github.com/annotation/text-fabric).
 
