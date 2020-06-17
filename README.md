@@ -34,7 +34,7 @@ list
 
 ### Tagging methodology
 
-We use three basic categories: prose, poetry and prophecy for complete books. For example, Genesis is prose, Psalms is poetry, Isaiah is prophecy, etc. The labels are not based on formal criteria, but are intended ot be coarse-grained, intuitive classifications, similar to what one might find in exegetical studies. 
+We use three basic categories: `prose`, `poetry` and `prophetic` for complete books. For example, Genesis is `prose`, Psalms is `poetry`, Isaiah is `prophetic`, etc. The labels are not based on formal criteria, but are intended to be coarse-grained, intuitive classifications, similar to what one might find in exegetical studies. 
 
 Within prose, we added `list`. These are generally lists of people names. We also added `instruction`, which is a general tag for (mainly) law texts. Finally, we changed `prose` to `poetry` for pieces of poetry emmbedded in prose, such as in Genesis 49.
 
