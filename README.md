@@ -1,6 +1,8 @@
 # Genre Labels from Syntactic Variation Project
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3897469.svg)](https://doi.org/10.5281/zenodo.3897469)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7883679.svg)](https://doi.org/10.5281/zenodo.7883679)
+
+
 
 This repository contains genre data as a .csv and as a Text-Fabric file. 
 [genre_ranges.csv](genre_ranges.csv) contains ranges of verses which correspond to consecutive chunks of genre.
